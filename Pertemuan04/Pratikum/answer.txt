@@ -1,0 +1,22 @@
+14.error CS0246 itu muncul karena program utama (ProductTest_714240047.cs) mencoba membuat objek dari class Product_714240047, Masalahnya, class Product_714240047 itu sendiri belum pernah dibuat file Product_714240047.cs (tempat 'cetakan' class-nya) masih kosong atau error, jadi compiler tidak bisa menemukan definisi class yang mau dipakai itu.
+
+19.Hasil di layar kosong karena kode Console.WriteLine(myProduct.MyType); diminta untuk mencetak isi dari properti MyType, tapi properti MyType itu sendiri nilainya kosong (atau null).
+	1.memanggil new Product_714240047();. Ini menjalankan constructor (metode public Product_714240047()) yang 	ada di file Product_714240047.cs
+	2.Di dalam constructor itu, tidak ada perintah yang mengisi nilai untuk MyType (misalnya, tidak ada kode 	seperti MyType = "Book").
+	3.Karena MyType adalah sebuah string yang tidak diisi nilai, nilai default-nya adalah null
+
+24.Karena MyType sudah diisi dengan "DVD" pada langkah sebelumnya, maka itulah yang dicetak ke layar. Yang muncul di layar adalah kata "DVD" karena:
+	1.Di baris 13 (... new Product_714240047();), kita membuat sebuah objek myProduct yang propertinya 	(MyType) awalnya kosong.
+	2.Kemudian di baris 15 (myProduct.MyType = "DVD";), kita secara manual mengisi properti MyType dari objek 	myProduct itu dengan nilai teks "DVD".
+	3.Terakhir di baris 17 (Console.WriteLine(myProduct.MyType);), kita menyuruh program untuk mencetak isi 	dari myProduct.MyType.
+II.
+
+8.Tipe dan judul tidak muncul karena constructor di class turunan (Book_123) tidak meneruskan data "Book" dan "C# Object Oriented Solution" ke constructor class dasarnya (Product_123)
+Padahal, constructor class dasar itulah yang bertugas mengisi field myType dan myTitle, sehingga kedua field itu nilainya tetap kosong.
+
+12.Perintah base(type, title) meneruskan data "Book" dan "C# Object Oriented Solution" dari class anak (Book_123) ke constructor class induk (Product_123).
+Constructor induk (Product_123) menerima data itu dan menyimpannya ke field myType dan myTitle.
+Sekarang, field tersebut sudah terisi. Saat DisplayInfo() dipanggil, ia bisa mengambil data itu melalui properti MyType dan MyTitle untuk dicetak ke layar.
+
+19.Kode yang ditandai merah (Book_123 product2 = new DVD_123(...)) itu salah dan akan menyebabkan error.
+Alasannya adalah karena tipe variabel di sebelah kiri tanda = tidak cocok dengan tipe objek yang dibuat di sebelah kanan.
