@@ -1,0 +1,8 @@
+D:\pemograman\P4_2_714240047\P4_2_714240047\bin\Debug\P4_2_714240047.exe.config
+D:\pemograman\P4_2_714240047\P4_2_714240047\bin\Debug\P4_2_714240047.exe
+D:\pemograman\P4_2_714240047\P4_2_714240047\bin\Debug\P4_2_714240047.pdb
+D:\pemograman\P4_2_714240047\P4_2_714240047\obj\Debug\P4_2_714240047.csproj.AssemblyReference.cache
+D:\pemograman\P4_2_714240047\P4_2_714240047\obj\Debug\P4_2_714240047.csproj.CoreCompileInputs.cache
+D:\pemograman\P4_2_714240047\P4_2_714240047\obj\Debug\P4_2_714240047.exe
+D:\pemograman\P4_2_714240047\P4_2_714240047\obj\Debug\P4_2_714240047.pdb
+D:\pemograman\P4_2_714240047\P4_2_714240047\obj\Debug\P4_2_714240047.exe.config
