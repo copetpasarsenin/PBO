@@ -1,0 +1,10 @@
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\bin\Debug\P6_3_714240042.exe.config
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\bin\Debug\P6_3_714240042.exe
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\bin\Debug\P6_3_714240042.pdb
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\obj\Debug\P6_3_714240042.csproj.AssemblyReference.cache
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\obj\Debug\P6_3_714240042.Form1.resources
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\obj\Debug\P6_3_714240042.Properties.Resources.resources
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\obj\Debug\P6_3_714240042.csproj.GenerateResource.cache
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\obj\Debug\P6_3_714240042.csproj.CoreCompileInputs.cache
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\obj\Debug\P6_3_714240042.exe
+D:\Kegabutan\PEMOGRAMMAN-2-PBO\Pertemuan06\Praktikum\P6_3_714240042\obj\Debug\P6_3_714240042.pdb
