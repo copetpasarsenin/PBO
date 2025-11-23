@@ -1,0 +1,10 @@
+D:\pemograman\P6_4_714240047\P6_4_714240047\bin\Debug\P6_4_714240047.exe.config
+D:\pemograman\P6_4_714240047\P6_4_714240047\bin\Debug\P6_4_714240047.exe
+D:\pemograman\P6_4_714240047\P6_4_714240047\bin\Debug\P6_4_714240047.pdb
+D:\pemograman\P6_4_714240047\P6_4_714240047\obj\Debug\P6_4_714240047.csproj.AssemblyReference.cache
+D:\pemograman\P6_4_714240047\P6_4_714240047\obj\Debug\P6_4_714240047.Properties.Resources.resources
+D:\pemograman\P6_4_714240047\P6_4_714240047\obj\Debug\P6_4_714240047.csproj.GenerateResource.cache
+D:\pemograman\P6_4_714240047\P6_4_714240047\obj\Debug\P6_4_714240047.csproj.CoreCompileInputs.cache
+D:\pemograman\P6_4_714240047\P6_4_714240047\obj\Debug\P6_4_714240047.exe
+D:\pemograman\P6_4_714240047\P6_4_714240047\obj\Debug\P6_4_714240047.pdb
+D:\pemograman\P6_4_714240047\P6_4_714240047\obj\Debug\P6_4_714240047.exe.config
