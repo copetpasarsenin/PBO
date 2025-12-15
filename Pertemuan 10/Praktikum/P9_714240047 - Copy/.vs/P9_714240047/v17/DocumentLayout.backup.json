@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pemograman\\P9_714240047 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|d:\\pemograman\\p9_714240047 - copy\\p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|d:\\pemograman\\p9_714240047 - copy\\p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|d:\\pemograman\\p9_714240047 - copy\\p9_714240047\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|d:\\pemograman\\p9_714240047 - copy\\p9_714240047\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|d:\\pemograman\\p9_714240047 - copy\\p9_714240047\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|d:\\pemograman\\p9_714240047 - copy\\p9_714240047\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\Form1.cs",
+              "ToolTip": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\view\\Form1.cs [Design]*",
+              "RelativeToolTip": "P9_714240047\\view\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:49:15.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\Form1.cs",
+              "ToolTip": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\view\\Form1.cs*",
+              "RelativeToolTip": "P9_714240047\\view\\Form1.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAD4v1gAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:52:11.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\controller\\Mahasiswa.cs",
+              "ToolTip": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P9_714240047\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:48:27.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\model\\M_mahasiswa.cs",
+              "ToolTip": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P9_714240047\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:42:01.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\controller\\Koneksi.cs",
+              "ToolTip": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714240047\\controller\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:51:29.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\Form1.Designer.cs",
+              "ToolTip": "D:\\pemograman\\P9_714240047 - Copy\\P9_714240047\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "P9_714240047\\view\\Form1.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAawEsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:52:50.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
