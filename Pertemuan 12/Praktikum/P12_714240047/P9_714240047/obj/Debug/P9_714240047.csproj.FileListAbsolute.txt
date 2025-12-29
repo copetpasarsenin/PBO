@@ -1,0 +1,219 @@
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.AssemblyReference.cache
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_714240047.Form1.resources
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_714240047.Properties.Resources.resources
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.GenerateResource.cache
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.CoreCompileInputs.cache
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\P9_714240047.exe.config
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\P9_714240047.exe
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\P9_714240047.pdb
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\Google.Protobuf.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\MySql.Data.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Buffers.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.IO.Pipelines.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Memory.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Numerics.Vectors.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\ZstdSharp.dll
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\Google.Protobuf.pdb
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\Google.Protobuf.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\MySql.Data.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Buffers.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.IO.Pipelines.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Memory.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Numerics.Vectors.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemograman\P9_714240047\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_71424.43E18AB8.Up2Date
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_714240047.exe
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_714240047.pdb
+D:\pemograman\P9_714240047\P9_714240047\obj\Debug\P9_714240047.exe.config
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.csproj.AssemblyReference.cache
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.Form1.resources
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.Properties.Resources.resources
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.csproj.GenerateResource.cache
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.csproj.CoreCompileInputs.cache
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\P9_714240047.exe.config
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\P9_714240047.exe
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\P9_714240047.pdb
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\Google.Protobuf.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\MySql.Data.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Buffers.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.IO.Pipelines.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Memory.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Numerics.Vectors.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\ZstdSharp.dll
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\Google.Protobuf.pdb
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\Google.Protobuf.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\MySql.Data.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Buffers.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.IO.Pipelines.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Memory.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Numerics.Vectors.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_71424.43E18AB8.Up2Date
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.exe
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.pdb
+D:\pemograman\P9_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.exe.config
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.AssemblyReference.cache
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.exe.config
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.Form1.resources
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.Properties.Resources.resources
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.FormNilai.resources
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.view.ParentForm.resources
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.GenerateResource.cache
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.CoreCompileInputs.cache
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\P9_714240047.exe.config
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\P9_714240047.exe
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\P9_714240047.pdb
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\Google.Protobuf.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\MySql.Data.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Buffers.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.IO.Pipelines.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Memory.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Numerics.Vectors.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\ZstdSharp.dll
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\Google.Protobuf.pdb
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\Google.Protobuf.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\MySql.Data.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Buffers.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.IO.Pipelines.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Memory.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Numerics.Vectors.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemograman\P11_714240047\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_71424.43E18AB8.Up2Date
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.exe
+D:\pemograman\P11_714240047\P9_714240047\obj\Debug\P9_714240047.pdb
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.csproj.AssemblyReference.cache
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.Form1.resources
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.Properties.Resources.resources
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.FormNilai.resources
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.view.ParentForm.resources
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.csproj.GenerateResource.cache
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.csproj.CoreCompileInputs.cache
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\P9_714240047.exe.config
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\P9_714240047.exe
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\P9_714240047.pdb
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\Google.Protobuf.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\MySql.Data.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Buffers.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.IO.Pipelines.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Memory.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Numerics.Vectors.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\ZstdSharp.dll
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\Google.Protobuf.pdb
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\Google.Protobuf.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\MySql.Data.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Buffers.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.IO.Pipelines.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Memory.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Numerics.Vectors.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_71424.43E18AB8.Up2Date
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.exe
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.pdb
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.exe.config
+D:\pemograman\P11_714240047 - Copy\P9_714240047\obj\Debug\P9_714240047.view.FormTransaksi.resources
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\P9_714240047.exe.config
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\P9_714240047.exe
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\P9_714240047.pdb
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\BouncyCastle.Cryptography.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\Google.Protobuf.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\K4os.Hash.xxHash.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\MySql.Data.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Buffers.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.IO.Pipelines.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Memory.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Numerics.Vectors.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\ZstdSharp.dll
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\BouncyCastle.Cryptography.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\Google.Protobuf.pdb
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\Google.Protobuf.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\K4os.Hash.xxHash.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\MySql.Data.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Buffers.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.IO.Pipelines.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Memory.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Numerics.Vectors.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pemograman\P12_714240047\P9_714240047\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.AssemblyReference.cache
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.Form1.resources
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.Properties.Resources.resources
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.FormNilai.resources
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.view.FormTransaksi.resources
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.view.ParentForm.resources
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.view.StartUp.resources
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.GenerateResource.cache
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.csproj.CoreCompileInputs.cache
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_71424.43E18AB8.Up2Date
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.exe
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.pdb
+D:\pemograman\P12_714240047\P9_714240047\obj\Debug\P9_714240047.exe.config

@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pemograman\\P12_714240047\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|d:\\pemograman\\p12_714240047\\p9_714240047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\startup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\startup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\controller\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\controller\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formmasterbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formmasterbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formmasterbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formmasterbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formmasterbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formmasterbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\model\\m_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\model\\m_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formnilai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formnilai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|D:\\pemograman\\P12_714240047\\p9_714240047\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240047\\P9_714240047.csproj|solutionrelative:p9_714240047\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\controller\\Nilai.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Nilai.cs",
+              "RelativeToolTip": "P9_714240047\\controller\\Nilai.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:49:48.009Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\ParentForm.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\ParentForm.cs",
+              "RelativeToolTip": "P9_714240047\\view\\ParentForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIAwwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:52:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\ParentForm.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P9_714240047\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:52:03.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs [Design]",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\StartUp.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\StartUp.cs [Design]",
+              "RelativeToolTip": "P9_714240047\\view\\StartUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:56:29.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormLogin.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormLogin.cs [Design]",
+              "RelativeToolTip": "P9_714240047\\view\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:01:33.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormLogin.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormLogin.cs",
+              "RelativeToolTip": "P9_714240047\\view\\FormLogin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:01:37.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CekLogin.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\CekLogin.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\controller\\CekLogin.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\CekLogin.cs",
+              "RelativeToolTip": "P9_714240047\\controller\\CekLogin.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:00:43.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\Program.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\Program.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\Program.cs",
+              "RelativeToolTip": "P9_714240047\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:35:18.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\StartUp.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\StartUp.cs",
+              "RelativeToolTip": "P9_714240047\\view\\StartUp.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:58:08.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.Designer.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\StartUp.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\StartUp.Designer.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\StartUp.Designer.cs",
+              "RelativeToolTip": "P9_714240047\\view\\StartUp.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwCoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:04:58.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormLogin.Designer.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormLogin.Designer.cs",
+              "RelativeToolTip": "P9_714240047\\view\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:04:45.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\controller\\Koneksi.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714240047\\controller\\Koneksi.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:51:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTransaksi.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormTransaksi.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormTransaksi.cs",
+              "RelativeToolTip": "P9_714240047\\view\\FormTransaksi.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAUwLwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:42:47.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormTransaksi.cs [Design]",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormTransaksi.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\FormTransaksi.cs [Design]",
+              "RelativeToolTip": "..\\P11_714240047 - Copy\\P9_714240047\\view\\FormTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:32:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Transaksi.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\controller\\Transaksi.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Transaksi.cs",
+              "RelativeToolTip": "P9_714240047\\controller\\Transaksi.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:16:44.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParentForm.Designer.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\ParentForm.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\ParentForm.Designer.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\ParentForm.Designer.cs",
+              "RelativeToolTip": "P9_714240047\\view\\ParentForm.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAtwEoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:36:24.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormMasterBarang.Designer.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormMasterBarang.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormMasterBarang.Designer.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormMasterBarang.Designer.cs",
+              "RelativeToolTip": "P9_714240047\\view\\FormMasterBarang.Designer.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAowN8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:34:23.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormMasterBarang.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormMasterBarang.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormMasterBarang.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormMasterBarang.cs",
+              "RelativeToolTip": "P9_714240047\\view\\FormMasterBarang.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAowIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:34:34.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormMasterBarang.cs [Design]",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormMasterBarang.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormMasterBarang.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\FormMasterBarang.cs [Design]",
+              "RelativeToolTip": "..\\P11_714240047 - Copy\\P9_714240047\\view\\FormMasterBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:34:20.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormTransaksi.Designer.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormTransaksi.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormTransaksi.Designer.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormTransaksi.Designer.cs",
+              "RelativeToolTip": "P9_714240047\\view\\FormTransaksi.Designer.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAowFcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:40:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormNilai.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "..\\P11_714240047 - Copy\\P9_714240047\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:07:38.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Barang.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\controller\\Barang.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Barang.cs",
+              "RelativeToolTip": "P9_714240047\\controller\\Barang.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:58:49.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "M_barang.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\model\\M_barang.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\model\\M_barang.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\model\\M_barang.cs",
+              "RelativeToolTip": "P9_714240047\\model\\M_barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:58:28.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\Form1.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\P11_714240047 - Copy\\P9_714240047\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:49:15.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "M_transaksi.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\model\\M_transaksi.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\model\\M_transaksi.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\model\\M_transaksi.cs",
+              "RelativeToolTip": "P9_714240047\\model\\M_transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:16:25.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\Form1.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\Form1.cs",
+              "RelativeToolTip": "P9_714240047\\view\\Form1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv40AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:52:11.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\controller\\Mahasiswa.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P9_714240047\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:48:27.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormNilai.Designer.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormNilai.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormNilai.Designer.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormNilai.Designer.cs",
+              "RelativeToolTip": "P9_714240047\\view\\FormNilai.Designer.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAIwDYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:09:46.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\FormNilai.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\FormNilai.cs",
+              "RelativeToolTip": "P9_714240047\\view\\FormNilai.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:07:40.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\model\\M_nilai.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\model\\M_nilai.cs",
+              "RelativeToolTip": "P9_714240047\\model\\M_nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:49:26.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\model\\M_mahasiswa.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P9_714240047\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:42:01.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P9_714240047\\view\\Form1.Designer.cs",
+              "ToolTip": "D:\\pemograman\\P12_714240047\\P9_714240047\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "P9_714240047\\view\\Form1.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAawEsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:52:50.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
