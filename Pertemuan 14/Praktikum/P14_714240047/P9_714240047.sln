@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_714240047", "P9_714240047\P9_714240047.csproj", "{397765E3-4414-4187-8780-E8746223027D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ULBIApp", "ULBIApp\ULBIApp.vdproj", "{FDFC5B31-B956-F1CC-BA0A-5640D4082D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{397765E3-4414-4187-8780-E8746223027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397765E3-4414-4187-8780-E8746223027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397765E3-4414-4187-8780-E8746223027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397765E3-4414-4187-8780-E8746223027D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFC5B31-B956-F1CC-BA0A-5640D4082D4E}.Debug|Any CPU.ActiveCfg = Debug
+		{FDFC5B31-B956-F1CC-BA0A-5640D4082D4E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B76A3929-41F3-49CB-8848-9DDE0E607704}
+	EndGlobalSection
+EndGlobal
