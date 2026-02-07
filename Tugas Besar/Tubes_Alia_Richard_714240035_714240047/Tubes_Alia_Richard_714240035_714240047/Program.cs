@@ -30,8 +30,19 @@ namespace Tubes_Alia_Richard_714240035_714240047
             LoginForm loginForm = new LoginForm();
             if (loginForm.ShowDialog() == DialogResult.OK)
             {
-                MainForm mainForm = new MainForm(loginForm.CurrentUser);
-                Application.Run(mainForm);
+                // Role-based routing
+                if (loginForm.CurrentUser.Role.ToLower() == "admin")
+                {
+                    // Admin goes to MainForm (admin panel)
+                    MainForm mainForm = new MainForm(loginForm.CurrentUser);
+                    Application.Run(mainForm);
+                }
+                else
+                {
+                    // User/Customer goes to UserMainForm (shopping interface)
+                    UserMainForm userMainForm = new UserMainForm(loginForm.CurrentUser);
+                    Application.Run(userMainForm);
+                }
             }
         }
     }

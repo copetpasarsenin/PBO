@@ -26,7 +26,6 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.BackColor = Color.White;
-            this.Icon = null;
 
             // Panel utama
             Panel pnlMain = new Panel

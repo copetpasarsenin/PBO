@@ -19,7 +19,7 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
             try
             {
                 string query = @"SELECT p.produk_id, p.nama_produk, p.kategori_id, k.nama_kategori, 
-                               p.harga, p.stok, p.deskripsi, p.created_at
+                               p.harga, p.stok, p.deskripsi, p.gambar, p.created_at
                                FROM produk p
                                JOIN kategori k ON p.kategori_id = k.kategori_id
                                ORDER BY p.produk_id DESC";
@@ -37,6 +37,7 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
                         Harga = Convert.ToDecimal(row["harga"]),
                         Stok = Convert.ToInt32(row["stok"]),
                         Deskripsi = row["deskripsi"].ToString(),
+                        Gambar = row["gambar"] != DBNull.Value ? row["gambar"].ToString() : null,
                         CreatedAt = Convert.ToDateTime(row["created_at"])
                     });
                 }
@@ -145,8 +146,12 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
                 object totalNilai = dbConnection.ExecuteScalar("SELECT SUM(harga * stok) FROM produk");
                 stats["TotalNilai"] = totalNilai == DBNull.Value ? 0 : Convert.ToDecimal(totalNilai);
 
-                // Produk Stok Rendah (< 10)
-                object lowStock = dbConnection.ExecuteScalar("SELECT COUNT(*) FROM produk WHERE stok < 10");
+                // Produk Stok Habis (= 0)
+                object outOfStock = dbConnection.ExecuteScalar("SELECT COUNT(*) FROM produk WHERE stok = 0");
+                stats["OutOfStock"] = Convert.ToInt32(outOfStock);
+
+                // Produk Stok Rendah (1-9)
+                object lowStock = dbConnection.ExecuteScalar("SELECT COUNT(*) FROM produk WHERE stok > 0 AND stok < 10");
                 stats["LowStock"] = Convert.ToInt32(lowStock);
 
                 // Harga Rata-rata
@@ -160,13 +165,38 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
             return stats;
         }
 
+        // Get Top Selling Products
+        public DataTable GetTopProducts(int limit = 5)
+        {
+            try
+            {
+                string query = @"SELECT p.nama_produk AS 'Produk', 
+                               k.nama_kategori AS 'Kategori',
+                               COALESCE(SUM(dp.jumlah), 0) AS 'Terjual',
+                               p.harga AS 'Harga'
+                               FROM produk p
+                               LEFT JOIN detail_pesanan dp ON p.produk_id = dp.produk_id
+                               LEFT JOIN kategori k ON p.kategori_id = k.kategori_id
+                               GROUP BY p.produk_id, p.nama_produk, k.nama_kategori, p.harga
+                               ORDER BY Terjual DESC
+                               LIMIT " + limit;
+                
+                return dbConnection.ExecuteQuery(query);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error Get Top Products: " + ex.Message);
+                return new DataTable();
+            }
+        }
+
         // Create Produk - SAFE dari SQL Injection
         public bool CreateProduk(Produk produk)
         {
             try
             {
-                string query = @"INSERT INTO produk (nama_produk, kategori_id, harga, stok, deskripsi) 
-                                 VALUES (@nama, @kategoriid, @harga, @stok, @deskripsi)";
+                string query = @"INSERT INTO produk (nama_produk, kategori_id, harga, stok, deskripsi, gambar) 
+                                 VALUES (@nama, @kategoriid, @harga, @stok, @deskripsi, @gambar)";
 
                 MySqlParameter[] parameters = new MySqlParameter[]
                 {
@@ -174,7 +204,8 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
                     new MySqlParameter("@kategoriid", produk.KategoriId),
                     new MySqlParameter("@harga", produk.Harga),
                     new MySqlParameter("@stok", produk.Stok),
-                    new MySqlParameter("@deskripsi", produk.Deskripsi)
+                    new MySqlParameter("@deskripsi", produk.Deskripsi),
+                    new MySqlParameter("@gambar", string.IsNullOrEmpty(produk.Gambar) ? (object)DBNull.Value : produk.Gambar)
                 };
 
                 return dbConnection.ExecuteNonQuery(query, parameters);
@@ -192,7 +223,7 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
             try
             {
                 string query = @"UPDATE produk SET nama_produk = @nama, kategori_id = @kategoriid, 
-                                 harga = @harga, stok = @stok, deskripsi = @deskripsi
+                                 harga = @harga, stok = @stok, deskripsi = @deskripsi, gambar = @gambar
                                  WHERE produk_id = @produkid";
 
                 MySqlParameter[] parameters = new MySqlParameter[]
@@ -202,6 +233,7 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
                     new MySqlParameter("@harga", produk.Harga),
                     new MySqlParameter("@stok", produk.Stok),
                     new MySqlParameter("@deskripsi", produk.Deskripsi),
+                    new MySqlParameter("@gambar", string.IsNullOrEmpty(produk.Gambar) ? (object)DBNull.Value : produk.Gambar),
                     new MySqlParameter("@produkid", produk.ProdukId)
                 };
 
@@ -240,7 +272,7 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
             try
             {
                 string query = @"SELECT p.produk_id, p.nama_produk, p.kategori_id, k.nama_kategori, 
-                                 p.harga, p.stok, p.deskripsi
+                                 p.harga, p.stok, p.deskripsi, p.gambar
                                  FROM produk p
                                  JOIN kategori k ON p.kategori_id = k.kategori_id
                                  WHERE p.produk_id = @produkid";
@@ -262,7 +294,8 @@ namespace Tubes_Alia_Richard_714240035_714240047.Controllers
                         NamaKategori = dt.Rows[0]["nama_kategori"].ToString(),
                         Harga = Convert.ToDecimal(dt.Rows[0]["harga"]),
                         Stok = Convert.ToInt32(dt.Rows[0]["stok"]),
-                        Deskripsi = dt.Rows[0]["deskripsi"].ToString()
+                        Deskripsi = dt.Rows[0]["deskripsi"].ToString(),
+                        Gambar = dt.Rows[0]["gambar"] != DBNull.Value ? dt.Rows[0]["gambar"].ToString() : null
                     };
                 }
                 return null;

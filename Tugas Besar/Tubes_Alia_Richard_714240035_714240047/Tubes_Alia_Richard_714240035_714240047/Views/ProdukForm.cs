@@ -13,6 +13,7 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
         private KategoriController kategoriController = new KategoriController();
         private int selectedProdukId = 0;
         private string userRole;
+        private string selectedImagePath = ""; // Store selected image path
 
         public ProdukForm(string role = "User")
         {
@@ -137,7 +138,65 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
 
             // Row 3
             Label lblDeskripsi = new Label { Text = "Deskripsi:", Left = 15, Top = 95, Font = new Font("Arial", 10, FontStyle.Bold) };
-            TextBox txtDeskripsi = new TextBox { Left = 150, Top = 95, Width = 700, Height = 70, Multiline = true, Font = new Font("Arial", 10) };
+            TextBox txtDeskripsi = new TextBox { Left = 150, Top = 95, Width = 300, Height = 60, Multiline = true, Font = new Font("Arial", 10) };
+
+            // Row 4 - Image Input (without label and textbox)
+            Button btnBrowseImage = new Button 
+            { 
+                Text = "Pilih", 
+                Left = 880, 
+                Top = 95, 
+                Width = 80, 
+                Height = 28, 
+                BackColor = Color.FromArgb(52, 152, 219), 
+                ForeColor = Color.White, 
+                Font = new Font("Arial", 9, FontStyle.Bold),
+                FlatStyle = FlatStyle.Flat
+            };
+            btnBrowseImage.FlatAppearance.BorderSize = 0;
+
+            // Image Preview Panel (NEW)
+            Panel pnlImagePreview = new Panel
+            {
+                Left = 880,
+                Top = 10,
+                Width = 80,
+                Height = 80,
+                BackColor = Color.FromArgb(240, 240, 240),
+                BorderStyle = BorderStyle.FixedSingle
+            };
+
+            PictureBox picPreview = new PictureBox
+            {
+                Dock = DockStyle.Fill,
+                SizeMode = PictureBoxSizeMode.Zoom,
+                BackColor = Color.Transparent
+            };
+            pnlImagePreview.Controls.Add(picPreview);
+
+            // Browse Image Event
+            btnBrowseImage.Click += (s, e) =>
+            {
+                using (OpenFileDialog openFileDialog = new OpenFileDialog())
+                {
+                    openFileDialog.Title = "Pilih Gambar Produk";
+                    openFileDialog.Filter = "Image Files|*.jpg;*.jpeg;*.png;*.gif;*.bmp|All Files|*.*";
+                    openFileDialog.FilterIndex = 1;
+
+                    if (openFileDialog.ShowDialog() == DialogResult.OK)
+                    {
+                        selectedImagePath = openFileDialog.FileName;
+                        try
+                        {
+                            picPreview.Image = Image.FromFile(selectedImagePath);
+                        }
+                        catch
+                        {
+                            picPreview.Image = null;
+                        }
+                    }
+                }
+            };
 
             // Buttons
             Button btnAdd = new Button 
@@ -220,6 +279,8 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
             pnlInput.Controls.Add(txtStok);
             pnlInput.Controls.Add(lblDeskripsi);
             pnlInput.Controls.Add(txtDeskripsi);
+            pnlInput.Controls.Add(btnBrowseImage);
+            pnlInput.Controls.Add(pnlImagePreview);
             pnlInput.Controls.Add(btnAdd);
             pnlInput.Controls.Add(btnUpdate);
             pnlInput.Controls.Add(btnDelete);
@@ -285,7 +346,8 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
                         KategoriId = Convert.ToInt32(cmbKategori.SelectedValue),
                         Harga = Convert.ToDecimal(txtHarga.Text),
                         Stok = Convert.ToInt32(txtStok.Text),
-                        Deskripsi = txtDeskripsi.Text
+                        Deskripsi = txtDeskripsi.Text,
+                        Gambar = selectedImagePath
                     };
 
                     if (produkController.CreateProduk(produk))
@@ -293,6 +355,8 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
                         MessageBox.Show("Data berhasil ditambahkan!", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         LoadProdukData(dgvProduk);
                         ClearInputs();
+                        selectedImagePath = "";
+                        picPreview.Image = null;
                     }
                 }
             };
@@ -311,6 +375,28 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
                         txtHarga.Text = produk.Harga.ToString();
                         txtStok.Text = produk.Stok.ToString();
                         txtDeskripsi.Text = produk.Deskripsi;
+                        
+                        // Load image if exists
+                        if (!string.IsNullOrEmpty(produk.Gambar))
+                        {
+                            selectedImagePath = produk.Gambar;
+                            try
+                            {
+                                if (System.IO.File.Exists(produk.Gambar))
+                                    picPreview.Image = Image.FromFile(produk.Gambar);
+                                else
+                                    picPreview.Image = null;
+                            }
+                            catch
+                            {
+                                picPreview.Image = null;
+                            }
+                        }
+                        else
+                        {
+                            selectedImagePath = "";
+                            picPreview.Image = null;
+                        }
                     }
                 }
             };
@@ -326,7 +412,8 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
                         KategoriId = Convert.ToInt32(cmbKategori.SelectedValue),
                         Harga = Convert.ToDecimal(txtHarga.Text),
                         Stok = Convert.ToInt32(txtStok.Text),
-                        Deskripsi = txtDeskripsi.Text
+                        Deskripsi = txtDeskripsi.Text,
+                        Gambar = selectedImagePath
                     };
 
                     if (produkController.UpdateProduk(produk))
@@ -334,6 +421,8 @@ namespace Tubes_Alia_Richard_714240035_714240047.Views
                         MessageBox.Show("Data berhasil diupdate!", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         LoadProdukData(dgvProduk);
                         ClearInputs();
+                        selectedImagePath = "";
+                        picPreview.Image = null;
                     }
                 }
                 else
